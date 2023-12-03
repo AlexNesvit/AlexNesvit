@@ -1,5 +1,6 @@
-Hi 👋 My name is Alex
-=====================Développeur web---------------* 🌍  I'm based in La Ciotat, France
+Bonjour 👋, je m'appelle Alex 🇺🇦🇫🇷💻🪂 
+❇️  Développeur web et web mobile  ❇️
+🌍 La Ciotat, France
 
 ### Skills
 
