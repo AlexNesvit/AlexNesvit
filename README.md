@@ -104,5 +104,5 @@
 </div>
 
 <div align="center">
-  [![Visits](https://komarev.com/ghpvc/?username=AlexNesvit&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/AlexNesvit)
+  [![Visits](https://komarev.com/ghpvc/?username=alexnesvit&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/alexnesvit)
 </div>
