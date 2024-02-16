@@ -4,7 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Salut+à+tous+👋;Je+m'appelle+Alex+NESVIT;Ravi+de+vous+rencontrer!&center=true&size=30">
   </a>
 </h1>
-
 ---
 
 ## < Développeur web et web mobile /> 
