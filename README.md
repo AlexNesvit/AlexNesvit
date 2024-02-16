@@ -4,7 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Salut+à+tous+👋;Je+m'appelle+Alex;RAVI+DE+VOUS+RENCONTRER!;🇺🇦+🇫🇷+💻+🪂&center=true&size=30">
   </a>
 </h1>
----
+
+------
 
 ## < Développeur web et web mobile /> 
 ## 🌍 La Ciotat, France 
