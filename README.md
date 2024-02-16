@@ -102,4 +102,7 @@
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </div>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AlexNesvit)
+
+<div align="center">
+  [![Visits](https://komarev.com/ghpvc/?username=AlexNesvit&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/AlexNesvit)
+</div>
