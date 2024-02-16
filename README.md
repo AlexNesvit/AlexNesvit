@@ -13,7 +13,7 @@
 
 ---
 
-### Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">:
+## Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">:
 
 <div>
 <p align="left">
@@ -61,7 +61,7 @@
 
 ---
 
-### Socials 🤝:
+## Socials 🤝:
 
  <div id="badges">
     <a href="https://www.github.com/AlexNesvit" target="_blank">
@@ -77,7 +77,7 @@
 
   ---
 
-### ⚙️ GitHub statistiques:
+## ⚙️ GitHub statistiques:
 
 <table>
   <tr>
