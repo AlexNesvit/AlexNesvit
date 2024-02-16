@@ -30,6 +30,7 @@
 </div>  
 
 ### Socials 🤝:
+
  <div id="badges">
     <a href="https://www.github.com/AlexNesvit" target="_blank">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="40" height="40" alt="Github"/>
