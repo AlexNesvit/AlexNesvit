@@ -12,9 +12,8 @@
 </p>
 
 ---
-<p align="center">
+
 ## Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">:
-<p/>
 
 <div>
 <p align="left">
