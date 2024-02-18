@@ -107,6 +107,6 @@
 <img src="https://profile-counter.glitch.me/AlexNesvit/count.svg" />
 </p>
 
-[Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AlexNesvit)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AlexNesvit)
 
 
