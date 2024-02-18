@@ -106,7 +106,7 @@
 <p align="center">
 <img src="https://profile-counter.glitch.me/AlexNesvit/count.svg" />
 </p>
-<p align="center">
+
 [Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AlexNesvit)
-<p/>
+
 
