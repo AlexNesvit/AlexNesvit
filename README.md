@@ -103,7 +103,7 @@
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </div>
 
-### Comptoir des visiteurs:
+## Comptoir des visiteurs:
 <p align="center">
 <img src="https://profile-counter.glitch.me/AlexNesvit/count.svg" />
 <p/>
