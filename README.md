@@ -45,9 +45,10 @@
 
 ---
 
-## Outils 🛠 :
+## <div align="center">Outils 🛠 :
+  </div>
 
-<div>
+<div align="center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="jetbrains" alt="jetbrains" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="fwebstorm" alt="webstorm" width="40" height="40"/>&nbsp;
@@ -61,9 +62,10 @@
 
 ---
 
-## Socials 🌱 :
+## <div align="center">Socials 🌱 :
+  </div>
 
- <div id="badges">
+ <div id="badges" align="center">
     <a href="https://www.github.com/AlexNesvit" target="_blank">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="40" height="40" alt="Github"/>
     </a>
@@ -77,7 +79,8 @@
 
   ---
 
-## ⚙️ GitHub statistiques:
+## <div align="center">⚙️ GitHub statistiques:
+  </div>
 
 <table>
   <tr>
