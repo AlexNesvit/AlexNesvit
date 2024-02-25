@@ -96,11 +96,13 @@
 <img src="https://profile-counter.glitch.me/AlexNesvit/count.svg" />
 </p>   ----> 
 
-[![website](https://img.shields.io/badge/website-informational)](https://alexnesvit.github.io/portfolio/)
-![status](https://img.shields.io/badge/status-up-brightgreen)
-![GitHub followers](https://img.shields.io/github/followers/AlexNesvit?style=flat&logo=github)
-![GitHub last commit](https://img.shields.io/github/last-commit/AlexNesvit/AlexNesvit)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AlexNesvit)
+&nbsp;<div align="center">
+ [![website](https://img.shields.io/badge/website-informational)](https://alexnesvit.github.io/portfolio/)
+ ![status](https://img.shields.io/badge/status-up-brightgreen)
+ ![GitHub followers](https://img.shields.io/github/followers/AlexNesvit?style=flat&logo=github)
+ ![GitHub last commit](https://img.shields.io/github/last-commit/AlexNesvit/AlexNesvit)
+ ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AlexNesvit)
+</div>
 
 
 
