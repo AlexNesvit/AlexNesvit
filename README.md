@@ -1,4 +1,4 @@
- # ✅ Alex NESVIT 🇺🇦 🇫🇷 💻🪂✅
+# <div align="center">✅ Alex NESVIT 🇺🇦 🇫🇷 💻🪂✅</div>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Salut+👋+!;Ravi+de+vous+voir!;Je+suis+Alex;<+Développeur+web+/>;Bienvenue+sur+ma+page!;🇺🇦+🇫🇷+💻+🪂&center=true&size=30">
