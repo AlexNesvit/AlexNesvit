@@ -57,7 +57,7 @@
 
 ---
 
-## Socials 🤝 :
+## Socials 🌱 :
 
  <div id="badges">
     <a href="https://www.github.com/AlexNesvit" target="_blank">
