@@ -23,7 +23,7 @@
 
 ---
 
-## <div align="center">Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> :
+## <div align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> Skills:
   </div>
 
 <div align="center">
@@ -45,7 +45,7 @@
 
 ---
 
-## <div align="center">Outils 🛠 :
+## <div align="center">🛠 Outils:
   </div>
 
 <div align="center">
@@ -62,7 +62,7 @@
 
 ---
 
-## <div align="center">Socials 🌱 :
+## <div align="center">🌱 Socials:
   </div>
 
  <div id="badges" align="center">
