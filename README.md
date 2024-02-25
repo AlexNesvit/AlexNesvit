@@ -95,7 +95,8 @@
 <p align="center">
 <img src="https://profile-counter.glitch.me/AlexNesvit/count.svg" />
 </p>   ---->
-
+![Portfolio Site](https://img.shields.io/website?url=https://alexnesvit.github.io/portfolio/)
+![GitHub followers](https://img.shields.io/github/followers/AlexNesvit?style=flat&logo=github)
 ![GitHub last commit](https://img.shields.io/github/last-commit/AlexNesvit/AlexNesvit)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AlexNesvit)
 
