@@ -2,7 +2,7 @@
 # <div align="center">✅ Alex NESVIT 🇺🇦 🇫🇷 💻 🪂 ✅</div>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Salut+👋+!;Ravi+de+vous+voir!;Je+suis+Alex;<+Développeur+web+/>;Bienvenue+sur+ma+page!;🇺🇦+🇫🇷+💻+🪂&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+!;Nice+to+see+you!;I+am+Alex;<Full-Stack+Developer/>;Welcome+to+my+page!;🇺🇦+🇫🇷+💻+🪂&center=true&size=30">
   </a>
 </h1>
 
@@ -47,7 +47,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <div align="center">🛠 Outils:
+## <div align="center">🛠 Tools:
   </div>
 
 <div align="center">
@@ -64,7 +64,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <div align="center">🌱 Socials:
+## <div align="center">🌱 Social Networks:
   </div>
 
  <div id="badges" align="center">
