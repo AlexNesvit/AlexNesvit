@@ -2,14 +2,14 @@
 # <div align="center">✅ Alex NESVIT 🇺🇦 🇫🇷 💻 🪂 ✅</div>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+!;Nice+to+see+you!;I+am+Alex;<Full-Stack+Developer/>;Welcome+to+my+page!;🇺🇦+🇫🇷+💻+🪂&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+!;Nice+to+see+you!;I+am+Alex;Full-Stack+Developer;Welcome+to+my+page!;🇺🇦+🇫🇷+💻+🪂&center=true&size=30">
   </a>
 </h1>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-## <div align="center">< Développeur Full-Stack /></div>
+## <div align="center">< Full-Stack Developer/></div>
 ## <div align="center">🌍 La Ciotat, France</div>
 &nbsp;<div align="center">
  ![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true)
