@@ -13,8 +13,8 @@
 <!--&nbsp;<div align="center">
  ![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true)
  </div> -->
- 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+ ---
 
 ### Titulaire d'un Master en Économie d'entreprises et Diplômé du "Titre professionnel de Développeur Web" avec un niveau Bac +2, je suis passionné par la programmation. En dehors du monde du code, j'apprécie également diverses activités sportives telles que le parachutisme et la course à pied. Un autre de mes passe-temps est de capturer la beauté de la nature en filmant avec un drone, et j'adore réaliser le montage par la suite. J'ai hâte de mettre mes compétences et de m'investir au service d'une entreprise qui offrira de belles perspectives de carrière. Je suis très ambitieux, particulièrement enthousiaste à l'idée de garantir la fonctionnalité sans faille des sites web. Ma passion réside dans la réalisation de projets web captivants et dynamiques. 
 
