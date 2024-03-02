@@ -104,6 +104,8 @@
 <img src="https://profile-counter.glitch.me/AlexNesvit/count.svg" />
 </p>   ----> 
 
+<!--<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+-->
 &nbsp;<div align="center">
  [![website](https://img.shields.io/badge/website-informational)](https://alexnesvit.github.io/portfolio/)
  ![status](https://img.shields.io/badge/status-up-brightgreen)
