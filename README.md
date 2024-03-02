@@ -110,7 +110,7 @@
  [![website](https://img.shields.io/badge/website-informational)](https://alexnesvit.github.io/portfolio/)
  ![status](https://img.shields.io/badge/status-up-brightgreen)
  ![GitHub followers](https://img.shields.io/github/followers/AlexNesvit?style=flat&logo=github)
- [![YouTube](https://badges.aleen42.com/src/youtube.svg)]([https://youtu.be/VlJ71kzcn9Y](https://www.youtube.com/watch?v=XJzFNiSS-AI))
+ [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=XJzFNiSS-AI)
  ![GitHub last commit](https://img.shields.io/github/last-commit/AlexNesvit/AlexNesvit)
  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AlexNesvit)
 </div>
