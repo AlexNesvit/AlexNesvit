@@ -46,7 +46,7 @@
 
 ---
 
-## <div align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> Tools:
+## <div align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45px"> Tools:
   </div>
 
 <div align="center">
