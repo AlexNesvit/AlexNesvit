@@ -16,7 +16,7 @@
 
  ---
 
-### Titulaire d'un Master en Économie d'entreprises et Diplômé du "Titre professionnel de Développeur Web" avec un niveau Bac +2, je suis passionné par la programmation. En dehors du monde du code, j'apprécie également diverses activités sportives telles que le parachutisme et la course à pied. Un autre de mes passe-temps est de capturer la beauté de la nature en filmant avec un drone, et j'adore réaliser le montage par la suite. J'ai hâte de mettre mes compétences et de m'investir au service d'une entreprise qui offrira de belles perspectives de carrière. Je suis très ambitieux, particulièrement enthousiaste à l'idée de garantir la fonctionnalité sans faille des sites web. Ma passion réside dans la réalisation de projets web captivants et dynamiques. 
+### Titulaire d'un Master en Économie d'entreprises et Diplômé du "Titre professionnel de Développeur Web" avec un niveau Bac +2, je suis passionné par la programmation. En dehors du monde du code, j'apprécie également diverses activités sportives telles que le parachutisme et la course à pied. Un autre de mes passe-temps est de capturer la beauté de la nature en filmant avec un drone, et j'adore réaliser le montage par la suite[voir ici](). J'ai hâte de mettre mes compétences et de m'investir au service d'une entreprise qui offrira de belles perspectives de carrière. Je suis très ambitieux, particulièrement enthousiaste à l'idée de garantir la fonctionnalité sans faille des sites web. Ma passion réside dans la réalisation de projets web captivants et dynamiques. 
 
 <p align="center">
  <img width="800" src="assets/github-snake.svg" alt="snake"/>
