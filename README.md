@@ -15,7 +15,7 @@
  </div> -->
 
  ---
-
+### Holding a Master's degree in Business Economics and a professional certificate in Web Development, I am deeply passionate about programming. Beyond the realm of coding, I also enjoy various sports activities such as skydiving and running. Another one of my hobbies is capturing the beauty of nature through drone filming, and I love the post-production editing process [Take a look at my video here;](https://www.youtube.com/watch?v=XJzFNiSS-AI). I am eager to apply my skills and dedicate myself to a company that offers promising career prospects. My passion lies in creating engaging and dynamic web projects.
 ### Titulaire d'un Master en Économie d'entreprises et Diplômé du "Titre professionnel de Développeur Web" avec un niveau Bac +2, je suis passionné par la programmation. En dehors du monde du code, j'apprécie également diverses activités sportives telles que le parachutisme et la course à pied. Un autre de mes passe-temps est de capturer la beauté de la nature en filmant avec un drone, et j'adore réaliser [le montage par la suite voir ici](https://www.youtube.com/watch?v=XJzFNiSS-AI). J'ai hâte de mettre mes compétences et de m'investir au service d'une entreprise qui offrira de belles perspectives de carrière. Ma passion réside dans la réalisation de projets web captivants et dynamiques. 
 
 <p align="center">
