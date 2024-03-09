@@ -15,6 +15,11 @@
 <!--&nbsp;<div align="center">
  ![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true)
  </div> -->
+## <div align="center">☕ Support Me
+<p>
+<div align="center"><a href="https://www.buymeacoffee.com/alexnesvit"><img alt="Coffee" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a></div>
+</p>
+</div>
 
  ---
 ### Holding a Master's degree in Business Economics and a Professional Certificate in Web Development, I am deeply passionate about programming. Beyond the realm of coding, I also enjoy various sports activities such as skydiving and running. Another one of my hobbies is capturing the beauty of nature through drone filming, and I love the post-production editing process [Take a look at my video here](https://www.youtube.com/watch?v=XJzFNiSS-AI). I am eager to apply my skills and dedicate myself to a company that offers promising career prospects. My passion lies in creating engaging and dynamic web projects.
