@@ -106,11 +106,6 @@
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </div>
 
-<!--## Comptoir des visiteurs:
-<p align="center">
-<img src="https://profile-counter.glitch.me/AlexNesvit/count.svg" />
-</p>   ----> 
-
 <!--<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 -->
 &nbsp;<div align="center">
