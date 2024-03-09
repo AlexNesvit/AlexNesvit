@@ -110,11 +110,11 @@
 -->
 &nbsp;<div align="center">
  [![website](https://img.shields.io/badge/website-informational)](https://alexnesvit.github.io/portfolio/)
- ![status](https://img.shields.io/badge/status-up-brightgreen)
+ ![GitHub last commit](https://img.shields.io/github/last-commit/AlexNesvit/AlexNesvit)
  ![GitHub followers](https://img.shields.io/github/followers/AlexNesvit?style=flat&logo=github)
  [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=XJzFNiSS-AI)
  <img src="https://img.shields.io/github/stars/AlexNesvit?style=flat&logo=github" alt="Stars"/> 
- ![GitHub last commit](https://img.shields.io/github/last-commit/AlexNesvit/AlexNesvit)
+ ![status](https://img.shields.io/badge/status-up-brightgreen)
  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AlexNesvit)
 </div>
 
