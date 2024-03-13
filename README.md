@@ -4,7 +4,7 @@
 # <div align="center">🟣 Alex NESVIT 🇺🇦 🇫🇷 💻 🪂🟣 </div>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+!;Nice+to+see+you!;I+am+Alex;Full-Stack+Developer;Welcome+to+my+page!;🇺🇦+🇫🇷+💻+🪂&center=true&size=40&color=754EF9">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋+!;Nice+to+see+you!;I+am+Alex;Full-Stack+Developer;Welcome+to+my+page!;🇺🇦+🇫🇷+💻+🪂&center=true&size=35&color=754EF9">
   </a>
 </h1>
 
