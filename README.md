@@ -35,19 +35,20 @@
 
 <div align="center">
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" />&nbsp;
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" />&nbsp;
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" />&nbsp;
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" />&nbsp;
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" />&nbsp;
+ <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />&nbsp;
+ <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />&nbsp;
+ <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="45" height="45" />&nbsp;
+ <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />&nbsp;
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="40" height="40" alt="PHP" />&nbsp;
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="40" height="40" alt="Vue" />&nbsp;
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="40" height="40" alt="Bootstrap" />&nbsp;
+ <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />&nbsp;
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="NodeJS" />&nbsp;
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="40" height="40" alt="Fast API" />&nbsp;
+ <img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" alt="WordPress" />&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40" height="40" alt="SASS" />&nbsp;
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" />&nbsp;
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Symfony-Light.svg" title="symfony" alt="symfony" width="40" height="40"/>&nbsp;
+ <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />&nbsp;
 </div>
 
 ---
