@@ -40,6 +40,7 @@
  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="45" height="40" />&nbsp;
  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" height="40" />&nbsp;
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="45" height="40" alt="PHP" />&nbsp;
+ <img src="ttps://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" width="45" height="40" alt="PHP" />&nbsp;h
  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" alt="React" />&nbsp;
  <!--<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="40" height="40" alt="Vue" />&nbsp;-->
  <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />&nbsp;
