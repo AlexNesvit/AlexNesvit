@@ -81,13 +81,13 @@
  <div id="badges" align="center">
     <a href="https://www.github.com/AlexNesvit" target="_blank">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="40" height="40" alt="Github"/>
-    </a>
+    </a>&nbsp;
     <a href="https://www.linkedin.com/in/alexnesvit" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
+    </a>&nbsp;
     <a href="https://www.youtube.com/@MetlaAlex" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
-    </a>
+    </a>&nbsp;
   </div>
 
 ---
