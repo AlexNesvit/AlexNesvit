@@ -37,8 +37,8 @@
 <div align="center"> 
  <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />&nbsp;
  <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />&nbsp;
- <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="45" height="40" />&nbsp;
- <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />&nbsp;
+ <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="45" height="40" />&nbsp;
+ <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" height="40" />&nbsp;
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="45" height="40" alt="PHP" />&nbsp;
  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" alt="React" />&nbsp;
  <!--<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="40" height="40" alt="Vue" />&nbsp;-->
