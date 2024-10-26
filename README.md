@@ -45,7 +45,7 @@
  <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />&nbsp;
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="NodeJS" />&nbsp;
  <img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" alt="WordPress" />&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40" height="40" alt="SASS" />&nbsp;
+ <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="40" height="40" alt="SASS" />&nbsp;
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Symfony-Light.svg" title="symfony" alt="symfony" width="40" height="40"/>&nbsp;
