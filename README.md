@@ -50,7 +50,6 @@
  <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="40" height="40" alt="SASS" />&nbsp;
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
- 
  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />&nbsp;
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" />&nbsp;
  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="40" height="40" alt="Docker" />&nbsp;
