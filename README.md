@@ -76,7 +76,7 @@
 
 ---
 
-## <div align="center">Codewars Stats</div>
+## <div align="center">Codewars Stats:</div>
 
 <div align="center">
   <img src="https://www.codewars.com/users/AlexNesvit/badges/large" alt="Codewars Stats">
