@@ -76,6 +76,12 @@
 
 ---
 
+## <div align="center">Codewars stats:
+![Codewars](https://www.codewars.com/users/AlexNesvit/badges/large)
+</div>
+
+---
+
 ## <div align="center">🌱 Social Networks:
   </div>
 
@@ -116,7 +122,6 @@
 -->
 &nbsp;<div align="center">
  [![website](https://img.shields.io/badge/website-informational)](https://card.alexnesvit.com/)
- ![Codewars](https://www.codewars.com/users/AlexNesvit/badges/large)
  ![GitHub last commit](https://img.shields.io/github/last-commit/AlexNesvit/AlexNesvit)
  <img src="https://img.shields.io/github/stars/AlexNesvit?style=flat&logo=github" alt="Stars"/>
  [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=XJzFNiSS-AI)
