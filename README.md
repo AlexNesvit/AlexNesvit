@@ -76,12 +76,12 @@
 
 ---
 
-## <div align="center">Codewars stats:
+## <div align="center">Codewars stats:</div>
 
 <div align="center">
 ![Codewars](https://www.codewars.com/users/AlexNesvit/badges/large)
 </div>
-</div>
+
 
 ---
 
