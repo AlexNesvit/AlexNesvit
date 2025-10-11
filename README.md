@@ -124,7 +124,6 @@
 -->
 &nbsp;<div align="center">
  [![website](https://img.shields.io/badge/website-informational)](https://card.alexnesvit.com/)
- <!--![GitHub last commit](https://img.shields.io/github/last-commit/AlexNesvit/AlexNesvit)-->
  ![GitHub last commit](https://img.shields.io/badge/Last%20Commit%20-%20Today-green)
  <img src="https://img.shields.io/github/stars/AlexNesvit?style=flat&logo=github" alt="Stars"/>
  [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=XJzFNiSS-AI)
@@ -132,6 +131,7 @@
  ![status](https://img.shields.io/badge/status-up-brightgreen)
  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AlexNesvit)
 </div>
+<!--![GitHub last commit](https://img.shields.io/github/last-commit/AlexNesvit/AlexNesvit)-->
 
 
 
