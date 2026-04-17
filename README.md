@@ -43,7 +43,7 @@
  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" height="40" />&nbsp;
  <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />&nbsp;
  <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />&nbsp;
- <!--<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="40" height="40" alt="Vue" />&nbsp;-->
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="40" height="40" alt="Vue" />&nbsp;
  <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />&nbsp;
  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="NodeJS" />&nbsp;
  <img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" alt="WordPress" />&nbsp;
