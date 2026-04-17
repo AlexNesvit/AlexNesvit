@@ -107,23 +107,18 @@
 
 ## <div align="center">⚙️ GitHub Profile Stats:
   </div>
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexNesvit&theme=midnight-purple&hide_border=false" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexNesvit&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-    </td>
-  </tr>
-</table>
-
-
+<br>
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexNesvit&theme=midnight-purple&hide_border=false" alt="webDev's Github stats" />
+  <br/>
+      <img height="195px" align="center" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexNesvit&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
+
+<!--!&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+</div>
+-->
 <!--<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 -->
 &nbsp;<div align="center">
