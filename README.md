@@ -34,6 +34,9 @@
 ## <div align="center"><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px> Skills:
   </div>
 
+  <img src="https://skillicons.dev/icons?i=php,laravel,symfony,react,js,python,html,css,bootstrap,nodejs,wordpress,sass,mysql,git,github,docker,postman,vue" />
+
+
 <div align="center">
  <img style="display:inline-block;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="50" height="50" alt="PHP" />
  <img style="display:inline-block;" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" width="50" height="50" alt="Laravel" />
