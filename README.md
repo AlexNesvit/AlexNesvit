@@ -34,7 +34,7 @@
 ## <div align="center"><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px> Skills:
   </div>
 
-  <img src="https://skillicons.dev/icons?i=php,laravel,symfony,javascript,react,vue,tailwind,nodejs,express,python,html,css,wordpress,sass,mysql,mongodb,git,github,md,docker,postman&perline=20&size=45&gap=3" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,symfony,javascript,react,vue,tailwind,nodejs,express,python,html,css,wordpress,sass,mysql,mongodb,git,github,postman,docker&perline=20&size=45&gap=3" />
 
 <!--
 <div align="center">
