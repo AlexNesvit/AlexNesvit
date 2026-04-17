@@ -35,24 +35,24 @@
   </div>
 
 <div align="center">
- <img style="display:inline-block;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="50" height="50" alt="PHP" />&nbsp;
- <img style="display:inline-block;" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" width="50" height="50" alt="Laravel" />&nbsp;
- <img style="display:inline-block;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Symfony-Light.svg" title="symfony" alt="symfony" width="40" height="40"/>&nbsp;
- <img style="display:inline-block;" src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" alt="React" />&nbsp;
- <img style="display:inline-block;" src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="45" height="40" />&nbsp;
- <img style="display:inline-block;" src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" height="40" />&nbsp;
- <img style="display:inline-block;" src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />&nbsp;
- <img style="display:inline-block;" src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />&nbsp;
- <img style="display:inline-block;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="40" height="40" alt="Vue" />&nbsp;
- <img style="display:inline-block;" src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />&nbsp;
- <img style="display:inline-block;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="NodeJS" />&nbsp;
- <img style="display:inline-block;" src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" alt="WordPress" />&nbsp;
- <img style="display:inline-block;" src="https://techstack-generator.vercel.app/sass-icon.svg" width="40" height="40" alt="SASS" />&nbsp;
- <img style="display:inline-block;" src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />&nbsp;
- <img style="display:inline-block;" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
- <img style="display:inline-block;" src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />&nbsp;
- <img style="display:inline-block;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" />&nbsp;
- <img style="display:inline-block;" src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="40" height="40" alt="Docker" />&nbsp;
+ <img style="display:inline-block;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="50" height="50" alt="PHP" />
+ <img style="display:inline-block;" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" width="50" height="50" alt="Laravel" />
+ <img style="display:inline-block;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Symfony-Light.svg" title="symfony" alt="symfony" width="40" height="40"/>
+ <img style="display:inline-block;" src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" alt="React" />
+ <img style="display:inline-block;" src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="45" height="40" />
+ <img style="display:inline-block;" src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" height="40" />
+ <img style="display:inline-block;" src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+ <img style="display:inline-block;" src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
+ <img style="display:inline-block;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="40" height="40" alt="Vue" />
+ <img style="display:inline-block;" src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />
+ <img style="display:inline-block;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="NodeJS" />
+ <img style="display:inline-block;" src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" alt="WordPress" />
+ <img style="display:inline-block;" src="https://techstack-generator.vercel.app/sass-icon.svg" width="40" height="40" alt="SASS" />
+ <img style="display:inline-block;" src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
+ <img style="display:inline-block;" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman" alt="postman" width="40" height="40"/>
+ <img style="display:inline-block;" src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
+ <img style="display:inline-block;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" />
+ <img style="display:inline-block;" src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="40" height="40" alt="Docker" />
 </div>
 
 ---
